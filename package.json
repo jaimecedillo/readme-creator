@@ -1,0 +1,22 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "readme.md creator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimecedillo/readme-creator.git"
+  },
+  "author": "Jaime Cedillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaimecedillo/readme-creator/issues"
+  },
+  "homepage": "https://github.com/jaimecedillo/readme-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
