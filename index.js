@@ -7,7 +7,7 @@ const generateMarkdown = require('./src/generateMarkdown')
 
 
 // TODO: Create an array of questions for user input
-const questions() {
+function questions() {
     return inquirer.prompt([
         {
             type: 'input',
@@ -66,7 +66,7 @@ const questions() {
         {
             type: 'input',
             name: 'email',
-            message: 'Enter your Email:',
+            message: 'Enter your Email',
         },
     ]);
 }
