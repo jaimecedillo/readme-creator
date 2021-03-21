@@ -1,12 +1,11 @@
-# Testing App
 
-  ----
+  # testing app
+  ---
+  
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
   There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.<br />
-
-  ![badge] (https://img.shields.io/badge/license-MIT-brightgreen)
-
 
 ## Table of Contents 
 - [Installation](#Installation)
@@ -26,12 +25,12 @@ There's no one right way to structure a good README. There is one very wrong way
 There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
 
 ## License
-![badge] ((https://img.shields.io/badge/license-MIT-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 This application is covered by the MIT license.
 
 ## Contributing
-Jaime Cedillo
+pedro, paco, pablo
 
 ## Tests
 There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
