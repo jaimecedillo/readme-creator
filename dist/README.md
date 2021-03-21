@@ -1,11 +1,11 @@
 
-  # testing app
+  # Testing the Application
   ---
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
   ## Description
-  There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.<br />
+  Here testing the application to run a video and demostrate.<br />
 
 ## Table of Contents 
 - [Installation](#Installation)
@@ -19,10 +19,10 @@
 - [Questions](#Questions)
 
 ## Installation
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+need to clone repository. npm install and npm inquire install
 
 ## Usage
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+application to help user create a readme.md file fast and easy
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
@@ -30,15 +30,15 @@ There's no one right way to structure a good README. There is one very wrong way
 This application is covered by the MIT license.
 
 ## Contributing
-pedro, paco, pablo
+Luke Skywalker, Han Solo
 
 ## Tests
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+run index.js on node
 
 ## Questions
 
 If you run into an issue:
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.<br />
+You can restart the application or contact me<br />
 
 Find me on GitHub :octocat: : [jaimecedillo](https://github.com/jaimecedillo)<br />
 
