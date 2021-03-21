@@ -5,7 +5,7 @@ function generateMarkdown(data) {
   ----
 
   ## Description
-  ${data.description}\
+  ${data.description}<br />
 
   ![badge] ((https://img.shields.io/badge/license-${data.license}-yes-green.svg)
 
@@ -21,30 +21,31 @@ function generateMarkdown(data) {
 - [Tests](#Test)
 - [Questions](#Questions)
 
-##Installation
-#{data.installation}
+## Installation
+${data.installation}
 
-##Usage
-#{data.installation}
+## Usage
+${data.usage}
 
-##License
-![badge] ((https://img.shields.io/badge/license-${data.license}-yes-green.svg)\\
+## License
+![badge] ((https://img.shields.io/badge/license-${data.license}-yes-green.svg)<br />
 
 This application is covered by the ${data.license} license.
 
-##Contributing
-${data.contributing}
+## Contributing
+${data.credits}
 
 ## Tests
-${data.tests}
+${data.test}
 
 ## Questions
 
 If you run into an issue:
-${data.questions}\\
-:octocat: Find me on GitHub: [${data.github}](https://github.com/${data.github})
+${data.question}<br />
 
-Email me me with any questions or concerns: ${data.email}\\
+Find me on GitHub :octocat: : [${data.github}](https://github.com/${data.github})<br />
+
+Email me me with any questions or concerns: [My Email](mailto:${data.email})<br />
 
 `;
 }
