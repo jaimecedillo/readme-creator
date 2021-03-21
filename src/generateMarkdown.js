@@ -7,7 +7,7 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}<br />
 
-  ![badge] ((https://img.shields.io/badge/license-${data.license}-yes-green.svg)
+  ![badge] (https://img.shields.io/badge/license-${data.license}-brightgreen)
 
 
 ## Table of Contents 
@@ -28,7 +28,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-![badge] ((https://img.shields.io/badge/license-${data.license}-yes-green.svg)<br />
+![badge] ((https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
 
 This application is covered by the ${data.license} license.
 
